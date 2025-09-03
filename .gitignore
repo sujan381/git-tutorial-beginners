@@ -4,3 +4,4 @@ css/
 node_modules/
 !importance.log
 db.sql
+NavBar.html
