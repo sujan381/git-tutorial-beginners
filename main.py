@@ -1,1 +1,1 @@
-print("This is not a main python file")
+print("This is main python file")
