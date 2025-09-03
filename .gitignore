@@ -1,0 +1,6 @@
+Assets/
+LogFiles/
+css/
+node_modules/
+!importance.log
+db.sql
